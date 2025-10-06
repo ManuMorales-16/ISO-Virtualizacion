@@ -4,4 +4,4 @@
 2. [Conceptos básicos](2.md)
 3. [Tipos](3.md)
 4. [Conclusión](conclusion.md)
-5. Licencia
+5. [Licencia](licencia.md)
